@@ -5,8 +5,20 @@ Vg5INTtIXviAROnN
 mongodb+srv://12sandip125_db_user:Vg5INTtIXviAROnN@cluster100.mx3um8v.mongodb.net/?appName=Cluster100
 
 npm install cron
-npm install socket.
-
+npm install socket.io
+npm install @clerk/express
 npm install @imagekit/nodejs
-
+npm install multer
 npm install @clerk/react 
+
+npm install react-router-dom
+1:09:41
+
+npm install react-hot-toast
+npm install tailwindcss @tailwindcss/vite
+
+npm install zustand axios socket.io-client @heroui/react
+
+npm install framer-motion
+npm install lucide-react
+
