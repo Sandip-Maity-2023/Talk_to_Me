@@ -4,3 +4,9 @@ Vg5INTtIXviAROnN
 
 mongodb+srv://12sandip125_db_user:Vg5INTtIXviAROnN@cluster100.mx3um8v.mongodb.net/?appName=Cluster100
 
+npm install cron
+npm install socket.
+
+npm install @imagekit/nodejs
+
+npm install @clerk/react 
