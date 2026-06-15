@@ -1,9 +1,12 @@
 Vg5INTtIXviAROnN
 
+
 12sandip125_db_user
 
 mongodb+srv://12sandip125_db_user:Vg5INTtIXviAROnN@cluster100.mx3um8v.mongodb.net/?appName=Cluster100
 
+npm create vite@latest .
+npm install express dotenv mongoose cors
 npm install cron
 npm install socket.io
 npm install @clerk/express
@@ -21,4 +24,17 @@ npm install zustand axios socket.io-client @heroui/react
 
 npm install framer-motion
 npm install lucide-react
+
+https://app.eraser.io/workspace/eW4G5fPRZ6QykVly1Osu
+
+http://localhost:5173/auth
+
+https://github.com/burakorkmez/imessage/blob/master/.dockerignore
+
+https://cloud.mongodb.com/v2/6a2cfad6b79f4a7fa2ffcb8c#/explorer/6a2cfaf8657367c84bbce381/imessage_db/messages/find
+
+https://imagekit.io/dashboard/developer/api-keys
+https://chatgpt.com/c/6a2d0107-2310-83ee-8cf5-cb802ecd1244
+
+https://www.youtube.com/watch?v=7-aY-tS2LhE&t=1875s
 
