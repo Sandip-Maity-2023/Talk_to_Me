@@ -5,6 +5,12 @@ export const WALLPAPER_SECTIONS = [
 
 export const WALLPAPERS = [
   {
+    id:"God",
+    category:"desktop",
+    label:"horizon",
+    url:"/wallpapers/p1.jpg"
+  },
+  {
     id: "sonoma-horizon",
     category: "desktop",
     label: "Sonoma Horizon",
