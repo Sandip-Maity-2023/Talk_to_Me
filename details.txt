@@ -45,3 +45,6 @@ npm install
 node src/index.js
 https://talk-to-me-3.onrender.com
 
+https://talk-to-ocmiosx90-sandip-maity-2023s-projects.vercel.app/
+
+https://talk-to-me-3.onrender.com
