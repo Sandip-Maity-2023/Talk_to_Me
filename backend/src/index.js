@@ -18,7 +18,7 @@ import messageRoutes from "./routes/message.route.js";
 import { app, server } from "./lib/socket.js";
 
 const PORT = process.env.PORT;
-const FRONTEND_URL = process.env.FRONTEND_URL;
+const FRONTEND_URL = process.env.VITE_FRONTEND_URL;
 
 const publicDir = path.join(process.cwd(), "public");
 
